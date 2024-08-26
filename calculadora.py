@@ -50,7 +50,7 @@ while True:
             segundo_numero = float(input("Informe o 2º número: "))
             print(divisao(primeiro_numero, segundo_numero))
             input("> ")
-        if opcao == "0":
+        elif opcao == "0":
             print("SAINDO...")
             break
         else:
