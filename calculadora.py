@@ -1,3 +1,5 @@
+import pyserial
+
 def menu():
     print("|=======================|")
     print("|===== CALCULADORA =====|")
